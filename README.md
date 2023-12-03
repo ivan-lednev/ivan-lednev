@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🛠️ I’m working on Obsidian plugins in my spare time
+- 🛠️ I'm a software engineer and I work on [Obsidian](https://obsidian.md/) plugins in my spare time
 - 📫 How to reach me:
   - You can create an issue in one of my repos
   - You can write to me directly: bishop1860@gmail.com
